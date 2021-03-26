@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Example_1</string>
+    <string name="phone">Phone</string>
+    <string name="iconandroid">IconAndroid</string>
+    <string name="number_phone">(650) 555 - 1234\nGoogle Voice</string>
+    <string name="number_phone1">(650)555-4321\nMobile</string>
+    <string name="email">studio@android.com\nWork</string>
+</resources>
